@@ -1,0 +1,1 @@
+[[!CircleCI](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic.svg?style=svg)](http://circleci.com/oh/springframeworkguru/sfg-pet-clinic)
